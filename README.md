@@ -1,4 +1,4 @@
-# data-science-capstone
+# Data Science Capstone - Predicting Earthquake Damage in Nepal
 
 As part of my capstone project for my Microsoft Professional Program in Data Science certificate I created a classification model to predict damage level to buildings effected by the 2015 Nepal earthquake. Finished in the top tier (top 15%) of students in the course.
 
