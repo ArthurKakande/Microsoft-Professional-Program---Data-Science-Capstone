@@ -4,4 +4,4 @@ As part of my capstone project for my Microsoft Professional Program in Data Sci
 
 - [Azure ML Experiment](https://gallery.cortanaintelligence.com/Experiment/Data-Science-Capstone-Nepal-Earthquake)
 - [Azure ML Predictive Experiment](https://gallery.cortanaintelligence.com/Experiment/Data-Science-Capstone-Nepal-Earthquake-Predictive-Exp)
-- Jupyter Notebook located above
+- Jupyter Notebook located in this repository (called Captsone Project.ipynb)
